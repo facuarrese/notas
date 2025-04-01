@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "facultad/Algoritmos y Estructura de Datos/Untitled.md",
+                "file": "facultad/teologia/teologia padre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "teologia padre"
             }
           }
         ]
@@ -170,8 +170,11 @@
   },
   "active": "b1199d9030d2149b",
   "lastOpenFiles": [
-    "facultad/Untitled.md",
+    "facultad/teologia/flor.md",
+    "facultad/teologia/teologia padre.md",
     "facultad/Algoritmos y Estructura de Datos/Untitled.md",
+    "facultad/teologia",
+    "facultad/Untitled.md",
     "facultad/Algoritmos y Estructura de Datos",
     "facultad"
   ]
